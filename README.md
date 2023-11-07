@@ -21,5 +21,6 @@ rm -r dir1
 touch file.txt
 ```
 ### Создать / Перезаписать файл с содержимым
-``` ehco '123' > file.txt
+```
+ehco '123' > file.txt
 ```
