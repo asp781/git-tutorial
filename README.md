@@ -1,5 +1,8 @@
 # git-tutorial
-
+### Показать рабочую директорию (Print Work Directory)
+```
+pwd
+```
 ### Создать папку
 ```
 mkdir dir1
