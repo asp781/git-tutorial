@@ -1,5 +1,5 @@
 # git-tutorial
-## ¯\_(ツ)_/¯
+[¯\_(ツ)_/¯](https://ohshitgit.com/ru)
 
 ### Показать рабочую директорию (Present / Print Working Directory)
 ```
