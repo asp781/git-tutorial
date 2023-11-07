@@ -48,5 +48,5 @@ rm file.txt
 ```
 ### Копировать файл / папку
 ```
-cp file.txt /dir1
+cp file.txt dir1
 ```
