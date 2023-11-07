@@ -28,3 +28,7 @@ echo '123' > file.txt
 ```
 echo '345' >> file.txt
 ```
+### Просмотр файла
+```
+cat file.txt
+```
