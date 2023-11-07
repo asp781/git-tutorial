@@ -46,3 +46,7 @@ cat file.txt
 ```
 rm file.txt
 ```
+### Копировать файл / папку
+```
+cp file.txt /dir2
+```
