@@ -42,3 +42,7 @@ echo '345' >> file.txt
 ```
 cat file.txt
 ```
+### Удалить файл
+```
+rm file.txt
+```
