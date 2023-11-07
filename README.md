@@ -1,4 +1,6 @@
 # git-tutorial
+# ¯\_(ツ)_/¯
+
 ### Показать рабочую директорию (Present / Print Working Directory)
 ```
 pwd
