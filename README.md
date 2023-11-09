@@ -1,4 +1,6 @@
 # git-tutorial
+[¯\_(ツ)_/¯](https://ohshitgit.com/ru)
+
 ### Показать рабочую директорию (Present / Print Working Directory)
 ```
 pwd
@@ -57,3 +59,11 @@ cp file.txt dir1
 ```
 mv file.txt dir1
 ```
+```mermaid
+graph LR;
+  untracked -- "git add" --> staged;
+  staged    -- "???"     --> tracked/comitted;
+
+%% стрелка без текста для примера: 
+  A --> B;
+``` 
